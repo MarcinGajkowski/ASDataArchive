@@ -1,0 +1,11 @@
+Spostrzeżenia:
+- kod Quick Sortu był najkrótszy i wydawał się najprostszy do zrozumienia
+- pomimo tego, Quick Sort zajmował najwięcej czasu przy przetwarzaniu danych oraz rzucał błędy przy wcześniej uporządkowanych listach (maksymalna głębokość rekursji przekroczona)
+- Heap Sort miał bardziej złożony kod, jednak był trochę szybszy od Quick Sorta
+- Counting Sort był stosunkowo łatwy do zinterpretowania i zdecydowanie najszybszy w swoim zadaniu
+- sortowanie listy liczb już ustawionych w porządku rosnącym zajmowało najwięcej czasu dla wszystkich algorytmów
+- sortowanie listy odwrotnie uporządkowanej zajmowało najmniej czasu
+
+Wnioski:
+- ze względu na używanie rekursji w funkcji, Quick Sort nie wydaje się na zbyt efektywny przy większych listach danych
+- Heap Sort oraz (szczególnie) Counting Sort wydają się znacznie bardziej praktycznymi algorytmami
